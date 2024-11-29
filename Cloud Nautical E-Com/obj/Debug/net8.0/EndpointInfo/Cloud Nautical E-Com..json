@@ -1,0 +1,77 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Cloud Nautical E-Com.",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/orders": {
+      "post": {
+        "tags": [
+          "Order"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RecentReq"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RecentReq"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RecentReq"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "RecentReq": {
+        "required": [
+          "customerId",
+          "user"
+        ],
+        "type": "object",
+        "properties": {
+          "user": {
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
+          },
+          "customerId": {
+            "maxLength": 50,
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "BasicAuth": {
+        "type": "http",
+        "description": "Basic Authentication using username and password",
+        "scheme": "basic",
+        "bearerFormat": "Basic"
+      }
+    }
+  },
+  "security": [
+    {
+      "BasicAuth": [ ]
+    }
+  ]
+}

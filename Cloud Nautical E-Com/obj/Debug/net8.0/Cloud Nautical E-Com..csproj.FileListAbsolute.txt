@@ -1,0 +1,74 @@
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\appsettings.Development.json
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\appsettings.json
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Cloud Nautical E-Com..staticwebassets.endpoints.json
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Cloud Nautical E-Com..exe
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Cloud Nautical E-Com..deps.json
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Cloud Nautical E-Com..runtimeconfig.json
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Cloud Nautical E-Com..dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Cloud Nautical E-Com..pdb
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Azure.Core.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Azure.Identity.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Dapper.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\System.ClientModel.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\Cloud Nautical E-Com..csproj.AssemblyReference.cache
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\Cloud Nautical E-Com..GeneratedMSBuildEditorConfig.editorconfig
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\Cloud Nautical E-Com..AssemblyInfoInputs.cache
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\Cloud Nautical E-Com..AssemblyInfo.cs
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\Cloud Nautical E-Com..csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\Cloud Nautical E-Com..MvcApplicationPartsAssemblyInfo.cs
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\Cloud Nautical E-Com..MvcApplicationPartsAssemblyInfo.cache
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\scopedcss\bundle\Cloud Nautical E-Com..styles.css
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\staticwebassets.build.json
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\staticwebassets.development.json
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\staticwebassets\msbuild.Cloud Nautical E-Com..Microsoft.AspNetCore.StaticWebAssets.props
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\staticwebassets\msbuild.Cloud Nautical E-Com..Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\staticwebassets\msbuild.build.Cloud Nautical E-Com..props
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cloud Nautical E-Com..props
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cloud Nautical E-Com..props
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\Cloud Na.0815A24D.Up2Date
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\Cloud Nautical E-Com..dll
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\refint\Cloud Nautical E-Com..dll
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\Cloud Nautical E-Com..pdb
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\Cloud Nautical E-Com..genruntimeconfig.cache
+D:\MY PROJECTS\Cloud Nautical E-Com\obj\Debug\net8.0\ref\Cloud Nautical E-Com..dll

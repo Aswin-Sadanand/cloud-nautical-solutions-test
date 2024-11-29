@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cloud Nautical E-Com..props" />
+</Project>

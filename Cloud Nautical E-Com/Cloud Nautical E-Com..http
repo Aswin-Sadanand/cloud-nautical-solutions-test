@@ -1,0 +1,6 @@
+@Cloud_Nautical_E_Com__HostAddress = http://localhost:5184
+
+GET {{Cloud_Nautical_E_Com__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
